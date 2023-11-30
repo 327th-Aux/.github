@@ -1,4 +1,4 @@
-# 🚀 Welcome to the 327th Aux Team Arma 3 Mod Development GitHub: Where Creativity Meets Collaboration on the Virtual Battlefield! 🎮
+# 🚀 Welcome to the 327th Aux Team Arma 3 Mod Development GitHub 🎮
 
 ## How GitHub Empowers Our Mod Development:
 ### - Version Control:
